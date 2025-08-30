@@ -9,6 +9,10 @@ public class 예시1 {
 		 
 		 Scanner scanner = new Scanner(System.in);
 		 
+		 System.out.print("x값 입력:");
+		 String strx = scanner.nextLine();
+		 int x = Integer.parseInt(strx);
+		 
 		 
 		 
 	 }
